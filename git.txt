@@ -1,0 +1,7 @@
+git fetch
+git add -A
+git commit -m "..."
+git fetch
+git rebase
+git push
+gitk --all
